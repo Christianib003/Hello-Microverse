@@ -1,8 +1,6 @@
 # Project Name
 
 > In this project, I make an HTML header, style it in CSS3 and check it with linters.
-![screenshot]()
-
 
 ## Built With
 
@@ -23,3 +21,4 @@ Contributions, issues, and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
